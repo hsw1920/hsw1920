@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 > - ##### Graduate [Suji Highschool](https://suji.hs.kr/main.php)
 > - ##### Atending [Sejong Univ.](http://www.sejong.ac.kr/)
 
-# Algorithm Study (2019 ~ )
+# Algorithm Study (2021 ~ )
 -----
 ##### By using C++, I improve my Algorithm & Data-structure skills  
- - >[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hsw1920&repo=Beakjoon)](https://github.com/hsw1920/Baekjoon)
+ - >[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hsw1920&repo=Baekjoon)](https://github.com/hsw1920/Baekjoon)
     
     My Repository where Most of My Codes are collected 
 
