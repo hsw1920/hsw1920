@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ##### I go in for problem solving using cpp
 - >[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hsw1920&repo=Baekjoon)](https://github.com/hsw1920/Baekjoon)
  
-- >[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsw1920)](https://solved.ac/hsw1920)
+- >[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsw1920)](https://solved.ac/hsw1920)
     
     Baekjoon: <https://www.acmicpc.net/user/hsw1920>
 
