@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 # Algorithm Study (2021 ~ )
 -----
-##### I go in for problem solving using cpp
+##### I go in for problem solving using cpp and swift
 - >[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hsw1920&repo=ProblemSolving)](https://github.com/hsw1920/ProblemSolving)
   
   My solved.ac tier
