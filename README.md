@@ -31,5 +31,3 @@ Here are some ideas to get you started:
 - >[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsw1920)](https://solved.ac/hsw1920)
     
     Baekjoon: <https://www.acmicpc.net/user/hsw1920>
-
- 
