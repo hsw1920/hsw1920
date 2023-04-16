@@ -29,5 +29,6 @@ Here are some ideas to get you started:
   
   My solved.ac tier
 - >[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsw1920)](https://solved.ac/hsw1920)
+    <a href="https://solved.ac/hsw1920"><img src="http://mazandi.herokuapp.com/api?handle=hsw1920&theme=warm"/></a>
     
     Baekjoon: <https://www.acmicpc.net/user/hsw1920>
