@@ -1,8 +1,5 @@
 
 ## 👋 안녕하세요 iOS 개발자 완(Wan) 입니다.
-> <img src="https://img.shields.io/badge/iOS-181717?style=flat&logo=Apple&logoColor=Black"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=UIKit&logoColor=white"/> <img src="https://img.shields.io/badge/RxSwift-fa4db3?style=flat&logo=ReactiveX&logoColor=white"/>
-> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> 
-
 
 ### 💬 소개
 - 기본을 바탕으로 개발자로 성장합니다.
@@ -42,3 +39,6 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsw1920)](https://solved.ac/hsw1920)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hsw1920&repo=ProblemSolving)](https://github.com/hsw1920/ProblemSolving)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hsw1920)](https://velog.io/@hsw1920/series/iOS-interview-Question)
+
+<img src="https://img.shields.io/badge/iOS-181717?style=flat&logo=Apple&logoColor=Black"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=UIKit&logoColor=white"/> <img src="https://img.shields.io/badge/RxSwift-fa4db3?style=flat&logo=ReactiveX&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> 
